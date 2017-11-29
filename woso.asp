@@ -76,8 +76,8 @@ style="BORDER-COLLAPSE: collapse" width=180>
   <TR>
     <TD width="100%" height="11">
       <P style="LINE-HEIGHT: 200%" align="center"><FONT color=#0099FF>
-		<a target="_blank" title="在线人数统计" href="http://www.1t2t.com">
+		<a target="_blank" title="在线人数统计" href="http://www.yuchonghu.com">
 		<span style="text-decoration: none"><font color="#0099FF">当前在线[<%=i%>]</font></span></a> </FONT><FONT color=#ffffff> <BR></FONT>
-		<font color="#0099FF"><a target="_blank" href="http://www.1t2t.com">
-		<font color="#0099FF"><span style="text-decoration: none">您是本站第</span></font></a><a target="_blank" title="总访问人数统计" href="http://www.1t2t.com"><span style="text-decoration: none"><font color="#FF0000"> <%=cnt%> 
+		<font color="#0099FF"><a target="_blank" href="http://www.yuchonghu.com">
+		<font color="#0099FF"><span style="text-decoration: none">您是本站第</span></font></a><a target="_blank" title="总访问人数统计" href="http://www.yuchonghu.com"><span style="text-decoration: none"><font color="#FF0000"> <%=cnt%> 
 		</font><font color="#0099FF">位访问者</font></span></a></font></P></TD></TR></TBODY></TABLE></BODY></HTML>
