@@ -11,13 +11,13 @@ count=rs("visiter")
 soonhostcomlen=len(count)
 for i=1 to 1-soonhostcomlen
 %>	
-	javastr=javastr+"<img src=http://www.yuchonghu.com/co/images/0.gif\" border=0></img>
+	javastr=javastr+"<img src=http://yuchonghu.com/co/images/0.gif\" border=0></img>
 <%
 next 
 
 for i=1 to soonhostcomlen
 %>
-	javastr=javastr+"<img src=http://www.yuchonghu.com/co/images/<%=mid(count,i,1)%>.gif\ border=0></img>"
+	javastr=javastr+"<img src=http://yuchonghu.com/co/images/<%=mid(count,i,1)%>.gif\ border=0></img>"
 <%
 next 
 %>
