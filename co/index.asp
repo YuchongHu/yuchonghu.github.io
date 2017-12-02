@@ -1,1 +1,0 @@
-<script src=count.asp></script>
